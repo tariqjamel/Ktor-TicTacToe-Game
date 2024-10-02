@@ -13,8 +13,8 @@ This is a simple real-time Tic-Tac-Toe game built using Kotlin, Jetpack Compose 
 
 ## Screenshots
 
-<img  align="left" src="game_start.png" width="50%" height="80%">
-<img  src="game_win.png" width="50%" height="80%">
+<img  align="left" src="game_starts.png" width="40%" height="70%">
+<img  src="game_win.png" width="40%" height="70%">
 
 ## Tech Stack
 
